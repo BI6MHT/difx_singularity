@@ -110,13 +110,6 @@ source ~/.bashrc
 
 # 安装fftw
 
-wget http://www.fftw.org/fftw-3.3.8.tar.gz
-tar -xvf fftw-3.3.8.tar.gz
-cd fftw-3.3.8
-mkdir /ASTRO/PACKAGES/fftw-3.3.8
-
-# 编译两次，获得不同的精度的动态库lib
-
 ```
 wget http://www.fftw.org/fftw-3.3.8.tar.gz
 tar -xvf fftw-3.3.8.tar.gz
