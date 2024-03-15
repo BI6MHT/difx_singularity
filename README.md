@@ -136,7 +136,7 @@ source ~/.bashrc
 
 ```
 cd /ASTRO/PACKAGES/INSTALL
-svn co https://svn.atnf.csiro.au/difx/master_tags/DiFX-2.5.5 --username llh@shao.ac.cn
+svn co https://svn.atnf.csiro.au/difx/master_tags/DiFX-2.5.5 --username youremail
 cd DiFX-2.5.5/
 mkdir /ASTRO/DiFX-2.5.5
 vim setup.bash
